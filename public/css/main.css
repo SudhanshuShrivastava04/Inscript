@@ -53,8 +53,8 @@ h6 {
   --bs-btn-color: var(--bs-primary-rgb);
   --bs-btn-border-color: var(--bs-primary-rgb);
   --bs-btn-hover-color: #fff;
-  --bs-btn-hover-bg: #0043a8;
-  --bs-btn-hover-border-color: #0043a8;
+  --bs-btn-hover-bg: var(--bs-primary-rgb);
+  --bs-btn-hover-border-color: var(--bs-primary-rgb);
   --bs-btn-focus-shadow-rgb: 13, 110, 253;
   --bs-btn-active-color: #fff;
   --bs-btn-active-bg: var(--bs-primary-rgb);
